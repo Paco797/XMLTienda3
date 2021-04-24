@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.css"?>
+<pedido>
+  
+  <nom_cliente>Juan Carlos Pérez Mateu</nom_cliente> 
+  <direccion_cliente>Plaza Mayor 12,Valencia</direccion_cliente> 
+  <cp_cliente>46001</cp_cliente>
+  <telf_cliente>123456789</telf_cliente> 
+  <productos>
+    <producto num="1">
+    <id_producto>111</id_producto>
+    <nom_producto>Animal Crossing: New Horizons</nom_producto>
+    <tipo_caja>pequeña</tipo_caja>
+    <prioridad>normal</prioridad>
+    </producto>
+      <producto num="2">
+    <id_producto>145</id_producto>
+    <nom_producto>Reloj Seiko</nom_producto>
+    <tipo_caja>pequeña</tipo_caja>
+    <prioridad>normal</prioridad>
+    </producto>
+     <producto num="2">
+    <id_producto>459</id_producto>
+    <nom_producto>Zapatillas Nike King</nom_producto>
+    <tipo_caja>media</tipo_caja>
+    <prioridad>urgente</prioridad>
+    </producto>
+    </productos>
+</pedido>
+
